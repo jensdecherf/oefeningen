@@ -1,0 +1,10 @@
+{
+    "naam": "Anna",
+    "leeftijd": 15,
+    "klas": "3A",
+    "cijfers": {
+        "wiskunde": 8.0,
+        "nederlands": 7.5,
+        "engels": 9.0
+    }
+}
