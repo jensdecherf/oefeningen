@@ -16,7 +16,7 @@ een lijst:
 2. item 2
 
 Dit is een afbeelding:
-![Dit is een afbeelding](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![Dit is een afbeelding](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)  
 [Hier heb je een afbeelding van een zwarte kat][Black]
 
 _cursieve tekst_ , **vette tekst** of **_cursieve,vette tekst_**
