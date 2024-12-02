@@ -6,6 +6,6 @@ Zoeken op personage:
 https://rickandmortyapi.com/api/character/?name=morty
 
 Zoeken op seizoen:
-https://rickandmortyapi.com/api/episode/?s01
+https://rickandmortyapi.com/api/episode/?episode=S01
 
 
