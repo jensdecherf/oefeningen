@@ -1,0 +1,485 @@
+https://restcountries.com/v3.1/name/switzerland?fields=population
+
+[
+    {
+        "population": 8654622
+    }
+]
+
+
+https://restcountries.com/v3.1/currency/euro?fields=name
+
+[
+    {
+        "name": {
+            "common": "French Guiana",
+            "official": "Guiana",
+            "nativeName": {
+                "fra": {
+                    "official": "Guyane",
+                    "common": "Guyane française"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Kosovo",
+            "official": "Republic of Kosovo",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Kosovës",
+                    "common": "Kosova"
+                },
+                "srp": {
+                    "official": "Република Косово",
+                    "common": "Косово"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Greece",
+            "official": "Hellenic Republic",
+            "nativeName": {
+                "ell": {
+                    "official": "Ελληνική Δημοκρατία",
+                    "common": "Ελλάδα"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Åland Islands",
+            "official": "Åland Islands",
+            "nativeName": {
+                "swe": {
+                    "official": "Landskapet Åland",
+                    "common": "Åland"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Montenegro",
+            "official": "Montenegro",
+            "nativeName": {
+                "cnr": {
+                    "official": "Црна Гора",
+                    "common": "Црна Гора"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Croatia",
+            "official": "Republic of Croatia",
+            "nativeName": {
+                "hrv": {
+                    "official": "Republika Hrvatska",
+                    "common": "Hrvatska"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg",
+            "nativeName": {
+                "deu": {
+                    "official": "Großherzogtum Luxemburg",
+                    "common": "Luxemburg"
+                },
+                "fra": {
+                    "official": "Grand-Duché de Luxembourg",
+                    "common": "Luxembourg"
+                },
+                "ltz": {
+                    "official": "Groussherzogtum Lëtzebuerg",
+                    "common": "Lëtzebuerg"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Netherlands",
+            "official": "Kingdom of the Netherlands",
+            "nativeName": {
+                "nld": {
+                    "official": "Koninkrijk der Nederlanden",
+                    "common": "Nederland"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia",
+            "nativeName": {
+                "est": {
+                    "official": "Eesti Vabariik",
+                    "common": "Eesti"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania",
+            "nativeName": {
+                "lit": {
+                    "official": "Lietuvos Respublikos",
+                    "common": "Lietuva"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Slovakia",
+            "official": "Slovak Republic",
+            "nativeName": {
+                "slk": {
+                    "official": "Slovenská republika",
+                    "common": "Slovensko"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany",
+            "nativeName": {
+                "deu": {
+                    "official": "Bundesrepublik Deutschland",
+                    "common": "Deutschland"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland",
+            "nativeName": {
+                "fin": {
+                    "official": "Suomen tasavalta",
+                    "common": "Suomi"
+                },
+                "swe": {
+                    "official": "Republiken Finland",
+                    "common": "Finland"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "French Southern and Antarctic Lands",
+            "official": "Territory of the French Southern and Antarctic Lands",
+            "nativeName": {
+                "fra": {
+                    "official": "Territoire des Terres australes et antarctiques françaises",
+                    "common": "Terres australes et antarctiques françaises"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Monaco",
+            "official": "Principality of Monaco",
+            "nativeName": {
+                "fra": {
+                    "official": "Principauté de Monaco",
+                    "common": "Monaco"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Vatican City",
+            "official": "Vatican City State",
+            "nativeName": {
+                "ita": {
+                    "official": "Stato della Città del Vaticano",
+                    "common": "Vaticano"
+                },
+                "lat": {
+                    "official": "Status Civitatis Vaticanæ",
+                    "common": "Vaticanæ"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Réunion",
+            "official": "Réunion Island",
+            "nativeName": {
+                "fra": {
+                    "official": "Ile de la Réunion",
+                    "common": "La Réunion"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia",
+            "nativeName": {
+                "lav": {
+                    "official": "Latvijas Republikas",
+                    "common": "Latvija"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Andorra",
+            "official": "Principality of Andorra",
+            "nativeName": {
+                "cat": {
+                    "official": "Principat d'Andorra",
+                    "common": "Andorra"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria",
+            "nativeName": {
+                "bar": {
+                    "official": "Republik Österreich",
+                    "common": "Österreich"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Guadeloupe",
+            "official": "Guadeloupe",
+            "nativeName": {
+                "fra": {
+                    "official": "Guadeloupe",
+                    "common": "Guadeloupe"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Martin",
+            "official": "Saint Martin",
+            "nativeName": {
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Mayotte",
+            "official": "Department of Mayotte",
+            "nativeName": {
+                "fra": {
+                    "official": "Département de Mayotte",
+                    "common": "Mayotte"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus",
+            "nativeName": {
+                "ell": {
+                    "official": "Δημοκρατία της Κύπρος",
+                    "common": "Κύπρος"
+                },
+                "tur": {
+                    "official": "Kıbrıs Cumhuriyeti",
+                    "common": "Kıbrıs"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic",
+            "nativeName": {
+                "por": {
+                    "official": "República português",
+                    "common": "Portugal"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium",
+            "nativeName": {
+                "deu": {
+                    "official": "Königreich Belgien",
+                    "common": "Belgien"
+                },
+                "fra": {
+                    "official": "Royaume de Belgique",
+                    "common": "Belgique"
+                },
+                "nld": {
+                    "official": "Koninkrijk België",
+                    "common": "België"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain",
+            "nativeName": {
+                "spa": {
+                    "official": "Reino de España",
+                    "common": "España"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Martinique",
+            "official": "Martinique",
+            "nativeName": {
+                "fra": {
+                    "official": "Martinique",
+                    "common": "Martinique"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Pierre and Miquelon",
+            "official": "Saint Pierre and Miquelon",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+                    "common": "Saint-Pierre-et-Miquelon"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malta",
+                    "common": "Malta"
+                },
+                "mlt": {
+                    "official": "Repubblika ta ' Malta",
+                    "common": "Malta"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "San Marino",
+            "official": "Republic of San Marino",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica di San Marino",
+                    "common": "San Marino"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Saint Barthélemy",
+            "official": "Collectivity of Saint Barthélemy",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité de Saint-Barthélemy",
+                    "common": "Saint-Barthélemy"
+                }
+            }
+        }
+    },
+    {
+        "name": {
+            "common": "Ireland",
+            "official": "Republic of Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ireland",
+                    "common": "Ireland"
+                },
+                "gle": {
+                    "official": "Poblacht na hÉireann",
+                    "common": "Éire"
+                }
+            }
+        }
+    }
+]
