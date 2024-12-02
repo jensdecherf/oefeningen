@@ -1,0 +1,11 @@
+Lijst met afleveringen:
+https://rickandmortyapi.com/api/episode
+
+
+Zoeken op personage:
+https://rickandmortyapi.com/api/character/?name=morty
+
+Zoeken op seizoen:
+https://rickandmortyapi.com/api/episode/?s01
+
+
