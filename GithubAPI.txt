@@ -1,0 +1,6 @@
+Om alle repo's van jezelf op te halen:
+	https://api.github.com/repos/jensdecherf/
+Haal de commits op van een specifieke repository:
+	https://api.github.com/repos/jensdecherf/oefeningen/commits
+Om alle repo's in Python op te halen:
+	https://api.github.com/search/repositories?q=language:python
